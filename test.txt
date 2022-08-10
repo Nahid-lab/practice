@@ -1,3 +1,7 @@
 this is the first line push
+<<<<<<< HEAD
 
 this is the third line
+=======
+this is the second line Git hub
+>>>>>>> 11c0a16a7f96d61372afb9705b3b43cbaf9393d1
