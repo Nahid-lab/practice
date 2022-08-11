@@ -9,4 +9,8 @@ this is the second line Git hub
 this is the fourth line.
 this is the fourth line.
 
+<<<<<<< HEAD
 this is the fourth line.this is the fourth line.this is the fourth line.
+=======
+this is the five line.
+>>>>>>> 2543452b9628e1a5639abea839f78531347a3f06
