@@ -7,3 +7,4 @@ this is the second line Git hub
 >>>>>>> 11c0a16a7f96d61372afb9705b3b43cbaf9393d1
 
 this is the fourth line.
+this is the fourth line.
